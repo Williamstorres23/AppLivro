@@ -50,11 +50,11 @@ npm start
 
 ---
 
-## 📺 Vídeos demonstrativos do primiero modelo - estamos em fase de teste da atualização
+## 📺 Fotos demonstrativas da atualização do nosso sistema
 
 Veja o Leia.Me em ação:
 
-[📁 Acesse os vídeos no Google Drive](https://drive.google.com/drive/folders/1hseYFns4LL1LxciLKseN954i3atrigkT?usp=sharing)
+[📁 Acesse as fotos no Google Drive]([https://drive.google.com/drive/folders/1hseYFns4LL1LxciLKseN954i3atrigkT?usp=sharing](https://drive.google.com/drive/folders/1ry_6N-Kq6GAt1LyfvF6T_j1vcRxjvvu5?usp=sharing))
 
 ---
 
